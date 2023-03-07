@@ -127,7 +127,7 @@ p{
 }
 
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:768px) {
     .wrapper{
         flex-direction: column;
     }
